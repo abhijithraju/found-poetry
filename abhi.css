@@ -3,6 +3,7 @@
     margin:10% 10% 0% 10%;
     color:rgba(136, 94, 46, 0.852);
     size:100%;
+    text-align: center;
 }
 
 
@@ -16,6 +17,8 @@ width: 20%;
 }
 .head{
 margin: 0 10% 10% 10%;
+align-items: center;
+
 
 
 }
